@@ -1,0 +1,25 @@
+
+/* Footer styles */
+.footer {
+    background-color: #11122b;
+    color: #cbcbcb;
+    font-family: "Ubuntu Condensed", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 400px;
+    margin-top: -4px;
+  }
+  /*Footer styles*/
+  .footer > .logo-footer img {
+    width: 180px;
+    height: 100%;
+    /* filter: brightness(50%); */
+    opacity: 0.5;
+  }
+  
+  
+  .elemnt.style{
+    background-image: url(imagen/background/about-us.jpg);
+  }
